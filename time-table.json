@@ -49,27 +49,106 @@
       "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
     }
   },
-  "Class_B": {
+ {
+  "Electrical Engineering First Year": {
     "Monday": {
-      "09:00-10:00": { "subject": "Math", "teacher": "Mr. G" },
-      "10:00-11:00": { "subject": "Chemistry", "teacher": "Ms. H" },
-      "11:00-12:00": { "subject": "Physics", "teacher": "Mr. I" }
+      "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
+      "11:00-12:00": { "subject": "Communication Skills", "teacher": "Ms. Mohit P Rai" },
+      "12:00-13:00": { "subject": "Applied Chemistry", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
+      "15:00-16:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
+      "16:00-17:00": { "subject": "SCA", "teacher": "Mr." }
     },
     "Tuesday": {
-      "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
-      "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
-      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
+      "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
+      "11:00-12:00": { "subject": "Communication Skills", "teacher": "Ms. Mohit P Rai" },
+      "12:00-13:00": { "subject": "Applied Chemistry", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
+      "15:00-16:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
+      "16:00-17:00": { "subject": "Mathematics", "teacher": "Dr. Chandrashekhar" }
     },
     "Wednesday": {
-      "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
-      "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
-      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
+      "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
+      "11:00-12:00": { "subject": "Engg. Workshop Practice", "teacher": "Ms." },
+      "12:00-13:00": { "subject": "Engg. Workshop Practice", "teacher": "Ms." },
+      "14:00-15:00": { "subject": "Engg. Workshop Practice", "teacher": "Ms." },
+      "15:00-16:00": { "subject": "Engg. Workshop Practice", "teacher": "Ms." },
+      "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
     },
     "Thursday": {
-      "09:00-10:00": { "subject": "Math", "teacher": "Mr. G" },
-      "10:00-11:00": { "subject": "Chemistry", "teacher": "Ms. H" },
-      "11:00-12:00": { "subject": "Physics", "teacher": "Mr. I" },
-      "12:00-12:50": { "subject": "Physics", "teacher": "Mr. Ajeet Agarwal" }
+      "10:00-11:00": { "subject": "Mathematics", "teacher": "Dr. Chandrashekhar" },
+      "11:00-12:00": { "subject": "Communication Skills", "teacher": "Ms. Mohit P Rai" },
+      "12:00-13:00": { "subject": "Applied Chemistry", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "SCA", "teacher": "Mr." },
+      "15:00-16:00": { "subject": "Sports Yoga", "teacher": "Mr. GL" },
+      "16:00-17:00": { "subject": "Sports Yoga", "teacher": "Mr. GL" }
+    },
+    "Friday": {
+      "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
+      "11:00-12:00": { "subject": "Mathematics", "teacher": "Dr. Chandrashekhar" },
+      "12:00-13:00": { "subject": "Applied Chemistry", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "Physics Lab", "teacher": "Mr. Amit Kumar" },
+      "15:00-16:00": { "subject": "Physics Lab", "teacher": "Mr. Amit Kumar" },
+      "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
+    },
+    "Saturday": {
+      "10:00-11:00": { "subject": "Mathematics", "teacher": "Dr. Chandrashekhar" },
+      "11:00-12:00": { "subject": "Chemistry Lab", "teacher": "Mr. Deepak Kumar Sharma" },
+      "12:00-13:00": { "subject": "Chemistry Lab", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "Communication Skills Lab", "teacher": "Ms. Mohit P Rai" },
+      "15:00-16:00": { "subject": "Communication Skills Lab", "teacher": "Ms. Mohit P Rai" },
+      "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
+    }
+  },
+  {
+  "Mechanical Engineering First Year": {
+    "Monday": {
+      "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
+      "11:00-12:00": { "subject": "Communication Skills", "teacher": "Ms. Mohit P Rai" },
+      "12:00-13:00": { "subject": "Applied Chemistry", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
+      "15:00-16:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
+      "16:00-17:00": { "subject": "SCA", "teacher": "Mr." }
+    },
+    "Tuesday": {
+      "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
+      "11:00-12:00": { "subject": "Communication Skills", "teacher": "Ms. Mohit P Rai" },
+      "12:00-13:00": { "subject": "Applied Chemistry", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
+      "15:00-16:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
+      "16:00-17:00": { "subject": "Mathematics", "teacher": "Dr. Chandrashekhar" }
+    },
+    "Wednesday": {
+      "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
+      "11:00-12:00": { "subject": "Engg. Workshop Practice", "teacher": "Ms." },
+      "12:00-13:00": { "subject": "Engg. Workshop Practice", "teacher": "Ms." },
+      "14:00-15:00": { "subject": "Engg. Workshop Practice", "teacher": "Ms." },
+      "15:00-16:00": { "subject": "Engg. Workshop Practice", "teacher": "Ms." },
+      "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
+    },
+    "Thursday": {
+      "10:00-11:00": { "subject": "Mathematics", "teacher": "Dr. Chandrashekhar" },
+      "11:00-12:00": { "subject": "Communication Skills", "teacher": "Ms. Mohit P Rai" },
+      "12:00-13:00": { "subject": "Applied Chemistry", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "SCA", "teacher": "Mr." },
+      "15:00-16:00": { "subject": "Sports Yoga", "teacher": "Mr. GL" },
+      "16:00-17:00": { "subject": "Sports Yoga", "teacher": "Mr. GL" }
+    },
+    "Friday": {
+      "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
+      "11:00-12:00": { "subject": "Mathematics", "teacher": "Dr. Chandrashekhar" },
+      "12:00-13:00": { "subject": "Applied Chemistry", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "Physics Lab", "teacher": "Mr. Amit Kumar" },
+      "15:00-16:00": { "subject": "Physics Lab", "teacher": "Mr. Amit Kumar" },
+      "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
+    },
+    "Saturday": {
+      "10:00-11:00": { "subject": "Mathematics", "teacher": "Dr. Chandrashekhar" },
+      "11:00-12:00": { "subject": "Chemistry Lab", "teacher": "Mr. Deepak Kumar Sharma" },
+      "12:00-13:00": { "subject": "Chemistry Lab", "teacher": "Mr. Deepak Kumar Sharma" },
+      "14:00-15:00": { "subject": "Communication Skills Lab", "teacher": "Ms. Mohit P Rai" },
+      "15:00-16:00": { "subject": "Communication Skills Lab", "teacher": "Ms. Mohit P Rai" },
+      "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
     }
   }
 }
