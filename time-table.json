@@ -9,13 +9,27 @@
       "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
       "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
       "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
-    }
-    ,
+    },
+    "Wednesday": {
+      "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
+      "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
+      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
+    },
     "Thursday": {
       "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
       "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
       "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" },
       "12:00-12:50": { "subject": "Biology", "teacher": "Ms. Mohit Rai" }
+    },
+    "Friday": {
+      "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
+      "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
+      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
+    },
+    "Saturday": {
+      "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
+      "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
+      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
     }
   },
   "Class_B": {
@@ -23,6 +37,16 @@
       "09:00-10:00": { "subject": "Math", "teacher": "Mr. G" },
       "10:00-11:00": { "subject": "Chemistry", "teacher": "Ms. H" },
       "11:00-12:00": { "subject": "Physics", "teacher": "Mr. I" }
+    },
+    "Tuesday": {
+      "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
+      "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
+      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
+    },
+    "Wednesday": {
+      "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
+      "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
+      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
     },
     "Thursday": {
       "09:00-10:00": { "subject": "Math", "teacher": "Mr. G" },
