@@ -14,7 +14,8 @@
     "Thursday": {
       "09:00-10:00": { "subject": "English", "teacher": "Ms. D" },
       "10:00-11:00": { "subject": "History", "teacher": "Mr. E" },
-      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" }
+      "11:00-12:00": { "subject": "Biology", "teacher": "Ms. F" },
+      "12:00-01:00": { "subject": "Biology", "teacher": "Ms. Mohit Rai" }
     }
   },
   "Class_B": {
@@ -22,6 +23,12 @@
       "09:00-10:00": { "subject": "Math", "teacher": "Mr. G" },
       "10:00-11:00": { "subject": "Chemistry", "teacher": "Ms. H" },
       "11:00-12:00": { "subject": "Physics", "teacher": "Mr. I" }
+    },
+    "Thursday": {
+      "09:00-10:00": { "subject": "Math", "teacher": "Mr. G" },
+      "10:00-11:00": { "subject": "Chemistry", "teacher": "Ms. H" },
+      "11:00-12:00": { "subject": "Physics", "teacher": "Mr. I" },
+      "12:00-01:00": { "subject": "Physics", "teacher": "Mr. Ajeet Agarwal" }
     }
   }
 }
