@@ -49,7 +49,7 @@
       "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
     }
   },
- {
+ 
   "Electrical Engineering First Year": {
     "Monday": {
       "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
@@ -100,7 +100,7 @@
       "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
     }
   },
-  {
+  
   "Mechanical Engineering First Year": {
     "Monday": {
       "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
