@@ -1,1 +1,21 @@
+[
+  {
+    "Date": "2024-10-25",
+    "Text": "Mid Semester Exams will start from November 5th. Please prepare accordingly.",
+    "ImageUrl": "https://example.com/images/notice1.jpg",
+    "PdfUrl": "https://example.com/notices/mid-semester-exams.pdf"
+  },
+  {
+    "Date": "2024-10-20",
+    "Text": "Guest Lecture on 'Innovations in Engineering' scheduled for October 30th.",
+    "ImageUrl": "https://example.com/images/notice2.jpg",
+    "PdfUrl": "https://example.com/notices/guest-lecture.pdf"
+  },
+  {
+    "Date": "2024-10-15",
+    "Text": "Winter Break starts on December 20th. All students are advised to plan their travel.",
+    "ImageUrl": "https://example.com/images/notice3.jpg",
+    "PdfUrl": "https://example.com/notices/winter-break.pdf"
+  }
+]
 
