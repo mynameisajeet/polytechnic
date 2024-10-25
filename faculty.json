@@ -1,0 +1,39 @@
+{
+  "faculty": [
+    {
+      "name": "Dr. Ajeet Agarwal",
+      "designation": "Associate Professor",
+      "mobile": "+91-9876543210",
+      "email": "ajeet.agarwal@example.com",
+      "imageurl": "https://example.com/images/ajeet_agarwal.jpg"
+    },
+    {
+      "name": "Ms. Mohit P Rai",
+      "designation": "Assistant Professor",
+      "mobile": "+91-9123456789",
+      "email": "mohit.rai@example.com",
+      "imageurl": "https://example.com/images/mohit_rai.jpg"
+    },
+    {
+      "name": "Mr. Amit Kumar",
+      "designation": "Lecturer",
+      "mobile": "+91-9234567890",
+      "email": "amit.kumar@example.com",
+      "imageurl": "https://example.com/images/amit_kumar.jpg"
+    },
+    {
+      "name": "Dr. Deepak Sharma",
+      "designation": "Professor",
+      "mobile": "+91-9345678901",
+      "email": "deepak.sharma@example.com",
+      "imageurl": "https://example.com/images/deepak_sharma.jpg"
+    },
+    {
+      "name": "Ms. Seema Joshi",
+      "designation": "Senior Lecturer",
+      "mobile": "+91-9456789012",
+      "email": "seema.joshi@example.com",
+      "imageurl": "https://example.com/images/seema_joshi.jpg"
+    }
+  ]
+}
