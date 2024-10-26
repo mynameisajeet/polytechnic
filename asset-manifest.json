@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/polytechnic/static/css/main.1c80dd74.css",
+    "main.js": "/polytechnic/static/js/main.8e35ddab.js",
+    "static/js/239.04b84c16.chunk.js": "/polytechnic/static/js/239.04b84c16.chunk.js",
+    "static/js/213.d83112a2.chunk.js": "/polytechnic/static/js/213.d83112a2.chunk.js",
+    "static/js/732.08d2d763.chunk.js": "/polytechnic/static/js/732.08d2d763.chunk.js",
+    "static/js/453.48b17544.chunk.js": "/polytechnic/static/js/453.48b17544.chunk.js",
+    "static/media/img4.png": "/polytechnic/static/media/img4.b299b654703ebfeb83d9.png",
+    "static/media/img2.png": "/polytechnic/static/media/img2.b9c363f17b598181fec2.png",
+    "static/media/img1.png": "/polytechnic/static/media/img1.642b99af242f4ccfcdf4.png",
+    "static/media/img3.png": "/polytechnic/static/media/img3.ae51259df71f01818032.png",
+    "index.html": "/polytechnic/index.html",
+    "main.1c80dd74.css.map": "/polytechnic/static/css/main.1c80dd74.css.map",
+    "main.8e35ddab.js.map": "/polytechnic/static/js/main.8e35ddab.js.map",
+    "239.04b84c16.chunk.js.map": "/polytechnic/static/js/239.04b84c16.chunk.js.map",
+    "213.d83112a2.chunk.js.map": "/polytechnic/static/js/213.d83112a2.chunk.js.map",
+    "732.08d2d763.chunk.js.map": "/polytechnic/static/js/732.08d2d763.chunk.js.map",
+    "453.48b17544.chunk.js.map": "/polytechnic/static/js/453.48b17544.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c80dd74.css",
+    "static/js/main.8e35ddab.js"
+  ]
+}
