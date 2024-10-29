@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Plantation",
+    "images": [
+      "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181856/plant3_qvdagv.jpg",
+      "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181856/plant2_otn0wx.jpg",
+	"https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181856/plant1_r4kc0r.jpg"
+    ]
+  },
+  {
+    "category": "Games",
+    "images": [
+      "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181855/games1_bjf040.jpg",
+      "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181854/games2_mmuvdx.jpg",
+	"https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181854/games3_fku2e8.jpg"
+    ]
+  }
+]
