@@ -1,5 +1,13 @@
 [
   {
+    "category": "Alumni Reunion",
+    "images": [
+      "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181855/alumni3_mcfbji.jpg",
+      "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181856/alumni1_q3qo3k.jpg",
+	"https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181856/alumni2_u9dzdo.jpg"
+    ]
+  },
+	{
     "category": "Plantation",
     "images": [
       "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181856/plant3_qvdagv.jpg",
