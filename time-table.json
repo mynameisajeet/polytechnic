@@ -94,7 +94,7 @@
     "Saturday": {
       "10:00-11:00": { "subject": "Applied Physics", "teacher": "Mr. Amit Kumar" },
       "11:00-12:00": { "subject": "Communication Skills", "teacher": "Ms. Mohit P Rai" },
-      "12:00-13:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." }
+      "12:00-13:00": { "subject": "Revision and Doubt Class", "teacher": "Mr." },
       "14:00-15:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
       "15:00-16:00": { "subject": "Engg. Graphics", "teacher": "Mr. GL" },
       "16:00-17:00": { "subject": "Revision and Doubt Class", "teacher": "Teacher Not Assigned" }
