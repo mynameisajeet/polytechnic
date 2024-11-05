@@ -1,28 +1,28 @@
 {
   "faculty": [
     {
-      "name": "Dhirendra Singh Yadav",
+      "name": "Mr. Dhirendra Singh Yadav",
       "designation": "PRINCIPAL",
       "mobile": "+91-7376020900",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/1_knnqq0.jpg"
     },
     {
-      "name": "ALOK AGARWAL",
+      "name": "Mr. ALOK AGARWAL",
       "designation": "LECT. ELECTRICAL",
       "mobile": "+91-9412338957",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/2_upsh94.jpg"
     },
     {
-      "name": "JYOTI GAUTAM",
+      "name": "Mrs. JYOTI GAUTAM",
       "designation": "LECT. ELECTRICAL",
       "mobile": "+91-9411411190",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/3_jrqqio.jpg"
     },
     {
-      "name": "SANJAY KUMAR",
+      "name": "Mr. SANJAY KUMAR",
       "designation": "LECTURER ELECTRONICS",
       "mobile": "+91-9412633089",
       "email": "principalgpolymbd@yahoo.com",
@@ -36,28 +36,28 @@
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/5_jfh5bd.jpg"
     },
     {
-      "name": "KAPIL KUMAR",
+      "name": "Mr. KAPIL KUMAR",
       "designation": "LECTURER MECHANICAL",
       "mobile": "+91-7906343100",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/6_skbate.jpg"
     },
     {
-      "name": "MOHD. ARIF",
+      "name": "Mr. MOHD. ARIF",
       "designation": "LECTURER MECHANICAL",
       "mobile": "+91-9911105955",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/7_fx6wel.jpg"
     },
     {
-      "name": "VIKAS CHAUDHRY",
+      "name": "Mr. VIKAS CHAUDHRY",
       "designation": "LECT. CIVIL",
       "mobile": "+91-7599091626",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/8_pidnjd.jpg"
     },
     {
-      "name": "JAY KUMAR VARSHNEY",
+      "name": "Mr. JAY KUMAR VARSHNEY",
       "designation": "LECT. CIVIL",
       "mobile": "+91-9458647586",
       "email": "principalgpolymbd@yahoo.com",
@@ -71,70 +71,70 @@
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/10_vxxjhs.jpg"
     },
     {
-      "name": "AMIT KUMAR",
+      "name": "Mr. AMIT KUMAR",
       "designation": "LECT. PHYSICS",
       "mobile": "+91-9557187540",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/11_lf46he.jpg"
     },
     {
-      "name": "DEEPAK KUMAR SHARMA",
+      "name": "Mr. DEEPAK KUMAR SHARMA",
       "designation": "LECT. CHEMISTRY",
       "mobile": "+91-9643126576",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/12_dlhmx2.jpg"
     },
     {
-      "name": "MOHIT P RAI",
+      "name": "Mr. MOHIT P RAI",
       "designation": "LECT. ENGLISH",
       "mobile": "+91-7459888291",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/13_x0w1ep.jpg"
     },
     {
-      "name": "SUBHSH CHANDRA SHARMA",
+      "name": "Mr. SUBHSH CHANDRA SHARMA",
       "designation": "INST. SCIENCE",
       "mobile": "+91-",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/14_stqyce.png"
     },
     {
-      "name": "AJEET KUMAR AGARWAL",
+      "name": "Mr. AJEET KUMAR AGARWAL",
       "designation": "INST. COMPUTER",
       "mobile": "+91-9045948760",
       "email": "ajeetagarwal10@gmail.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783075/15_ou2jce.jpg"
     },
     {
-      "name": "DEEPAK BHARDWAJ",
+      "name": "Mr. DEEPAK BHARDWAJ",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-9412713945",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783075/16_ahxncy.jpg"
     },
     {
-      "name": "MAHIPAL SINGH",
+      "name": "Mr. MAHIPAL SINGH",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-9528956237",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783075/17_cvddh2.jpg"
     },
     {
-      "name": "RAJESH VISHWAKARMA",
+      "name": "Mr. RAJESH VISHWAKARMA",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-7906122823",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783075/18_qbxdaj.jpg"
     },
     {
-      "name": "KRISHNAPAL",
+      "name": "Mr. KRISHNAPAL",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-9758309374",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783076/19_um2fxv.jpg"
     },
     {
-      "name": "SATENDRA KUMAR",
+      "name": "Mr. SATENDRA KUMAR",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-9410613327",
       "email": "principalgpolymbd@yahoo.com",
@@ -142,133 +142,133 @@
     },
     
     {
-      "name": "SUBHASH CHANDRA",
+      "name": "Mr. SUBHASH CHANDRA",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-9993572500",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783077/21_hqexxi.jpg"
     },
     {
-      "name": "KAPIL KUMAR KAUSHIK",
+      "name": "Mr. KAPIL KUMAR KAUSHIK",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-6398713385",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783076/22_yhve8d.jpg"
     },
     {
-      "name": "MOHIT KUMAR",
+      "name": "Mr. MOHIT KUMAR",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-9675767217",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783076/23_hwu6vg.jpg"
     },
     {
-      "name": "NARENDRA KUMAR",
+      "name": "Mr. NARENDRA KUMAR",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-9927198310",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783077/24_ny9ebj.jpg"
     },
     {
-      "name": "SUDHIR KUMAR",
+      "name": "Mr. SUDHIR KUMAR",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-8126657634",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/25_uyy2eg.jpg"
     },
     {
-      "name": "INDRESH KUMAR",
+      "name": "Mr. INDRESH KUMAR",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-7669081306",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/27_hsw8dz.jpg"
     },
     {
-      "name": "PURSHOTTAM SARAN",
+      "name": "Mr. PURSHOTTAM SARAN",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-8791068432",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/26_hzz9cb.jpg"
     },
     {
-      "name": "MUKESH KUMAR",
+      "name": "Mr. MUKESH KUMAR",
       "designation": "INST. WORKSHOP",
       "mobile": "+91-9263932413",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/28_zctojh.jpg"
     },
     {
-      "name": "MANIK SRIVASTAVA",
+      "name": "Mr. MANIK SRIVASTAVA",
       "designation": "CHIEF ASST.",
       "mobile": "+91-9756532950",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/29_eqze9e.jpg"
     },
     {
-      "name": "JAY SINGH",
+      "name": "Mr. JAY SINGH",
       "designation": "SENIOR ASST.",
       "mobile": "+91-9758920904",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/30_b4ja0r.jpg"
     },
     {
-      "name": "PRAKASH SINGH",
+      "name": "Mr. PRAKASH SINGH",
       "designation": "ASST. ACCOUNTANT",
       "mobile": "+91-7500637777",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/31_ctydhe.jpg"
     },
     {
-      "name": "NITIN CHANDRA",
+      "name": "Mr. NITIN CHANDRA",
       "designation": "STENO",
       "mobile": "+91-9756784083",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/32_ld29am.jpg"
     },
     {
-      "name": "SUNIL KUMAR",
+      "name": "Mr. SUNIL KUMAR",
       "designation": "JUNIOR ASST.",
       "mobile": "+91-8218627477",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/33_lsykqs.jpg"
     },
     {
-      "name": "PRASHANT KUMAR",
+      "name": "Mr. PRASHANT KUMAR",
       "designation": "JUNIOR ASSISTANT",
       "mobile": "+91-9045096060",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/34_ooy7uc.jpg"
     },
     {
-      "name": "AZEEM ALAM",
+      "name": "Mr. AZEEM ALAM",
       "designation": "JUNIOR ASSISTANT",
       "mobile": "+91-9690960774",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/35_dubxgb.jpg"
     },
     {
-      "name": "Suleman",
+      "name": "Mr. Suleman",
       "designation": "JUNIOR ASSISTANT",
       "mobile": "+91-6395153723",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/33_lsykqs.jpg"
     },
     {
-      "name": "Swapnil Chaudhary",
+      "name": "Mr. Swapnil Chaudhary",
       "designation": "JUNIOR ASSISTANT",
       "mobile": "+91-9520207879",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783075/37_kqi2e9.jpg"
     },
     {
-      "name": "MUNNA SINGH",
+      "name": "Mr. MUNNA SINGH",
       "designation": "CLASS IV EMP",
       "mobile": "+91-7534936084",
       "email": "principalgpolymbd@yahoo.com",
       "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783075/38_q1csw2.jpg"
     },
     {
-      "name": "DHARAMVEER SINGH",
+      "name": "Mr. DHARAMVEER SINGH",
       "designation": "CLASS IV EMP",
       "mobile": "+91-7520440683",
       "email": "principalgpolymbd@yahoo.com",
@@ -276,7 +276,7 @@
     },
     
     {
-      "name": "ISHA DEVI",
+      "name": "Mrs. ISHA DEVI",
       "designation": "CLASS IV EMP",
       "mobile": "+91-9027525908",
       "email": "principalgpolymbd@yahoo.com",
