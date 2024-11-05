@@ -1,39 +1,285 @@
 {
   "faculty": [
     {
-      "name": "Dr. Ajeet Agarwal",
-      "designation": "Associate Professor",
-      "mobile": "+91-9876543210",
-      "email": "ajeet.agarwal@example.com",
-      "imageurl": "https://raw.githubusercontent.com/mynameisajeet/polytechnic/main/Faculty/ajeet.jpg"
+      "name": "Dhirendra Singh Yadav",
+      "designation": "PRINCIPAL",
+      "mobile": "+91-7376020900",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/1_knnqq0.jpg"
     },
     {
-      "name": "Ms. Mohit P Rai",
-      "designation": "Assistant Professor",
-      "mobile": "+91-9123456789",
-      "email": "mohit.rai@example.com",
-      "imageurl": "https://raw.githubusercontent.com/mynameisajeet/polytechnic/main/Faculty/mohitprai.jpeg"
+      "name": "ALOK AGARWAL",
+      "designation": "LECT. ELECTRICAL",
+      "mobile": "+91-9412338957",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/2_upsh94.jpg"
     },
     {
-      "name": "Mr. Amit Kumar",
-      "designation": "Lecturer",
-      "mobile": "+91-9234567890",
-      "email": "amit.kumar@example.com",
-      "imageurl": "https://raw.githubusercontent.com/mynameisajeet/polytechnic/main/Faculty/alokagarwal.jpg"
+      "name": "JYOTI GAUTAM",
+      "designation": "LECT. ELECTRICAL",
+      "mobile": "+91-9411411190",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/3_jrqqio.jpg"
     },
     {
-      "name": "Dr. Deepak Sharma",
-      "designation": "Professor",
-      "mobile": "+91-9345678901",
-      "email": "deepak.sharma@example.com",
-      "imageurl": "https://raw.githubusercontent.com/mynameisajeet/polytechnic/main/Faculty/deepakksharma.jpeg"
+      "name": "SANJAY KUMAR",
+      "designation": "LECTURER ELECTRONICS",
+      "mobile": "+91-9412633089",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/4_mvzeij.jpg"
     },
     {
-      "name": "Ms. Seema Joshi",
-      "designation": "Senior Lecturer",
-      "mobile": "+91-9456789012",
-      "email": "seema.joshi@example.com",
-      "imageurl": "https://raw.githubusercontent.com/mynameisajeet/polytechnic/main/Faculty/ajeet.jpg"
+      "name": "Dr. VINEET KUMAR SINGH",
+      "designation": "LECTURER MECHANICAL",
+      "mobile": "+91-xxxxxxxxxx",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/5_jfh5bd.jpg"
+    },
+    {
+      "name": "KAPIL KUMAR",
+      "designation": "LECTURER MECHANICAL",
+      "mobile": "+91-7906343100",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/6_skbate.jpg"
+    },
+    {
+      "name": "MOHD. ARIF",
+      "designation": "LECTURER MECHANICAL",
+      "mobile": "+91-9911105955",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783071/7_fx6wel.jpg"
+    },
+    {
+      "name": "VIKAS CHAUDHRY",
+      "designation": "LECT. CIVIL",
+      "mobile": "+91-7599091626",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/8_pidnjd.jpg"
+    },
+    {
+      "name": "JAY KUMAR VARSHNEY",
+      "designation": "LECT. CIVIL",
+      "mobile": "+91-9458647586",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783072/9_hj0jjl.jpg"
+    },
+    {
+      "name": "Dr.CHANDRA SHEKHAR",
+      "designation": "LECTURER MATHS",
+      "mobile": "+91-9456078911",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/10_vxxjhs.jpg"
+    },
+    {
+      "name": "AMIT KUMAR",
+      "designation": "LECT. PHYSICS",
+      "mobile": "+91-9557187540",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/11_lf46he.jpg"
+    },
+    {
+      "name": "DEEPAK KUMAR SHARMA",
+      "designation": "LECT. CHEMISTRY",
+      "mobile": "+91-9643126576",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783073/12_dlhmx2.jpg"
+    },
+    {
+      "name": "MOHIT P RAI",
+      "designation": "LECT. ENGLISH",
+      "mobile": "+91-7459888291",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/13_x0w1ep.jpg"
+    },
+    {
+      "name": "SUBHSH CHANDRA SHARMA",
+      "designation": "INST. SCIENCE",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783074/14_stqyce.png"
+    },
+    {
+      "name": "AJEET KUMAR AGARWAL",
+      "designation": "INST. COMPUTER",
+      "mobile": "+91-9045948760",
+      "email": "ajeetagarwal10@gmail.com",
+      "imageurl": "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730783075/15_ou2jce.jpg"
+    },
+    {
+      "name": "DEEPAK BHARDWAJ",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "INST. WORKSHOP",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
+    },
+    
+    {
+      "name": "",
+      "designation": "",
+      "mobile": "+91-",
+      "email": "principalgpolymbd@yahoo.com",
+      "imageurl": ""
     }
   ]
 }
