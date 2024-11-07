@@ -8,6 +8,13 @@
     ]
   },
 	{
+    "category": "Infrastructure",
+    "images": [
+ "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181854/project2_bryxl0.jpg",
+	    "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730181854/project1_cioqtq.jpg"
+    ]
+  },
+	{
     "category": "Plantation",
     "images": [
  "https://res.cloudinary.com/dp4opmpgu/image/upload/v1730918735/Screenshot_2024-11-07-00-13-05-916_com.facebook.katana-edit_a0airx.jpg",
